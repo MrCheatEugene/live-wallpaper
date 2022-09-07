@@ -1,0 +1,1 @@
+ffmpeg.exe must be here/ffmpeg.exe должен лежать в этой папке
